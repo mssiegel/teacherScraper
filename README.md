@@ -1,6 +1,7 @@
 # teacherScraper
 Gets teacher names, finds their teacher certificates, and uploads all the data to an excel file
 
+To get started, download this git repository and then run 'npm install' and then 'node teacherScraper.js'
 
 soda.js - tutorial on how to use 'request-promise' module to query json data from NYC OpenData
 excel.js - tutorial on how to add data to an excel spreadsheet using javascript
