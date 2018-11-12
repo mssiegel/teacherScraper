@@ -12,8 +12,10 @@ teacherScraper.js does the following things in order:
   2. Uses puppeteer to query each teacher name in the Teacher Certification Lookup
   3. Adds that info to existing excel spreadsheet called nycTeacherCertifications.xlxs
 
+  
   Issues to be Addressed:
-  This code will work fantastically for a few thousand names etc. However there, are a few problems with scale
+  This code will work fantastically for a few thousand names etc. However there, are a few problems with scale:
+    
     1. Reading from the excel doc may take a longer time as it starts getting filled with a few hundred thousand names
         -this issue is minor as the data can be broken up into several excel docs. Also, I suspect reading several hundred thousand excel rows to be fast enough anyways.
         
