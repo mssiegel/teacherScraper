@@ -1,0 +1,25 @@
+List of Teacher job descriptions and how many of them their are:
+Below results are for all Title Descriptions that contain the word 'Teacher'
+The code for where this list came from is mentioned in the javascript file 'soda.js'
+
+
+  'CONTINUING EDUCATION TEACHER': 7217,
+  'TEACHER AIDE': 598,
+  TEACHER: 308485,
+  'TEACHER SPECIAL EDUCATION': 125226,
+  'ADULT EDUCATION TEACHER': 963,
+  'TEACHER-REG SUB': 2427,
+  'TEACHER ASSIGNED A': 2792,
+  'TEACHER ATTENDANCE': 1989,
+  'TEACHER SPECIAL EDUCATION-REG SUB': 1873,
+  'TEACHER TRAINER': 19,
+  'TEACHER ASSISTANT - REG SUB': 243,
+  'TEACHER ATTENDANCE-REG SUB': 6,
+  'TEACHER RESOURCE ROOM': 12,
+  'TEACHER-GENERAL ED': 62688,
+  'TEACHER-SPECIAL ED': 1169,
+  'TEACHER- PER SESSION': 388501,
+  'SUBSTITUTE TEACHER': 644,
+  'ASSISTANT TEACHER': 133,
+  'TEACHER OF LIBRARY': 5,
+  'TEACHER ASSIGNED B': 3 
