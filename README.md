@@ -4,7 +4,9 @@ Gets teacher names, finds their teacher certificates, and uploads all the data t
 To get started, download this git repository and then run 'npm install' and then 'node teacherScraper.js'
 
 soda.js - tutorial on how to use 'request-promise' module to query json data from NYC OpenData
+
 excel.js - tutorial on how to add data to an excel spreadsheet using javascript
+
 puppeteer.js - tutorial on how use puppeteer to enter names into Teacher Certification Lookup
 
 teacherScraper.js contains the main code to run the script.  Look there first. 
